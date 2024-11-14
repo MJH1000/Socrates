@@ -1,2 +1,2 @@
 # Socrates
-Socrates is a webgui for llama.cpp
+Socrates is an AI chat webgui for llama.cpp
